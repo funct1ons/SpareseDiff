@@ -1,0 +1,15 @@
+{
+  "cfa": "sparse",
+  "light_level": 1.0,
+  "seed": 42,
+  "noise_std": 0.004,
+  "source_sha256": "5d80f8ca592a91c2f33d01ae6789e09ae288fd284d25fccf2f91e80a03bedf70",
+  "crop_xy": null,
+  "w_source": "pillow-imagecms-lab-l",
+  "pillow": "11.2.1",
+  "littlecms": "2.17",
+  "input_sha256": "5d80f8ca592a91c2f33d01ae6789e09ae288fd284d25fccf2f91e80a03bedf70",
+  "schema_version": 1,
+  "kind": "simulation",
+  "array_sha256": "511c84cea6219077332ce5464cc6586da3d9fe44a6b508ba972f0fc2027b9a4f"
+}

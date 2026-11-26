@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "model": "sparse_mixed",
+  "weights_sha256": "189680d88b314a872d14841b83ce16a29c3a916f285f692c0c92cc0108fb329d",
+  "model_config_sha256": "10d2901d24d5ed6d7966286ec38a39fbc7d0c5d5b6d80bc6b995667c1b23b53e",
+  "observation_sha256": "94282b60bad79afe3340b11097fd3e628c1edfed4e6e981523a3f183cc2cca4c",
+  "light_level": 0.025,
+  "seed": 42,
+  "sampler_seed": 8276556631934687370,
+  "method": "euler",
+  "steps": 30,
+  "cfg_scale": 0,
+  "device": "cuda:0",
+  "precision": "bf16",
+  "torch": "2.9.1+cu128",
+  "projection": "final",
+  "projection_applied": true,
+  "projection_strength": 0.0,
+  "quantize": "round",
+  "restored_sha256": "0cb1ad57a26dfe1d5365bdd2ac9b7c8876000b8872d4ade85ef179071ddca765"
+}

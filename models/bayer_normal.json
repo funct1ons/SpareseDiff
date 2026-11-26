@@ -1,0 +1,23 @@
+{
+    "cfa_mode":  "bayer",
+    "light_mode":  "normal",
+    "model_name":  "JiT-B/16",
+    "resolution":  256,
+    "num_classes":  1000,
+    "num_layers":  4,
+    "noise_scale":  1.0,
+    "t_eps":  0.01,
+    "lowlight_prob":  0.6,
+    "lowlight_noise_std":  0.004,
+    "dataset_name":  "Funct1ons/Flickr2K_cfa",
+    "num_epochs":  100,
+    "train_batch_size":  16,
+    "gradient_accumulation_steps":  1,
+    "learning_rate":  0.0001,
+    "lr_scheduler":  "cosine",
+    "lr_warmup_steps":  2000,
+    "seed":  0,
+    "mixed_precision":  "bf16",
+    "world_size":  1,
+    "global_step":  563400
+}

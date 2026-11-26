@@ -1,0 +1,17 @@
+{
+  "cfa": "bayer",
+  "light_level": 0.025,
+  "seed": 42,
+  "noise_std": 0.004,
+  "source_sha256": "80b718e19d7adda19c4bed246452d1ca25e97e950823cc4969cbe99e0a1922b2",
+  "crop_xy": null,
+  "w_source": null,
+  "pillow": "11.2.1",
+  "littlecms": null,
+  "input_sha256": "80b718e19d7adda19c4bed246452d1ca25e97e950823cc4969cbe99e0a1922b2",
+  "rgb_preview_gain": 40.0,
+  "w_preview_gain": null,
+  "schema_version": 1,
+  "kind": "observation",
+  "array_sha256": "e462e77061363cbea3e94f4fc03174e00be932b6e237d1ed5f82be7a10fd45ca"
+}

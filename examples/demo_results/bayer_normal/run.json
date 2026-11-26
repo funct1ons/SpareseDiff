@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "model": "bayer_normal",
+  "weights_sha256": "229ba0954a83aedbbf67c0fe5dceb79f871b0938090ca094f811664fc6d00153",
+  "model_config_sha256": "eec12341993e028418fa8382471e048988846d58b4f87c487fb682d57ad2efde",
+  "observation_sha256": "7623d16127f936a37a952403b46de5bffd014d76f627979af79bd0e04e64b1b1",
+  "light_level": 1.0,
+  "seed": 42,
+  "sampler_seed": 8276556631934687370,
+  "method": "euler",
+  "steps": 30,
+  "cfg_scale": 0,
+  "device": "cuda:0",
+  "precision": "bf16",
+  "torch": "2.9.1+cu128",
+  "projection": "final",
+  "projection_applied": true,
+  "projection_strength": 1.0,
+  "quantize": "round",
+  "restored_sha256": "6b5ef3fe62c4053fed9503887002672de9aa9a1084a8de9630661dabc0df8238"
+}

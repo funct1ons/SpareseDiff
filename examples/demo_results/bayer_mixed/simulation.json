@@ -1,0 +1,15 @@
+{
+  "cfa": "bayer",
+  "light_level": 0.025,
+  "seed": 42,
+  "noise_std": 0.004,
+  "source_sha256": "80b718e19d7adda19c4bed246452d1ca25e97e950823cc4969cbe99e0a1922b2",
+  "crop_xy": null,
+  "w_source": null,
+  "pillow": "11.2.1",
+  "littlecms": null,
+  "input_sha256": "80b718e19d7adda19c4bed246452d1ca25e97e950823cc4969cbe99e0a1922b2",
+  "schema_version": 1,
+  "kind": "simulation",
+  "array_sha256": "d178e41d9e7785668375b2fc68ed632b3131b2fcc6bc721da2f2e5d558d4b25d"
+}
